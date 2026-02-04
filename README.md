@@ -25,10 +25,10 @@ All remaining assets, including source code and UI logic, were written and struc
 Any act of plagiarism of this project — in whole or in part — is strictly condemned. <br>
 The original author bears no responsibility for any consequences, damages, or misuse caused by individuals who copy or repurpose this work without authorization. <br>
 Furthermore, any commercial gains obtained through plagiarized versions of this work are considered illegitimate and unlawful assets. Appropriate legal actions may be pursued against violators in accordance with intellectual property laws. <br>
-<br>
 任何对该项目进行抄袭的行为——无论是全部抄袭还是部分抄袭——都将受到严厉谴责。<br>
 原作者对于任何因未经授权复制或改用此作品而产生的后果、损害或不当使用不负任何责任。<br>
 此外，通过抄袭本作品而获得的任何商业收益都被视为非法且不合法的资产。对于侵权者，可根据知识产权法采取适当的法律行动。<br>
+<br>
 <br>
 By accessing or viewing this GitHub repository, you are deemed to have accepted and agreed to the above terms. <br>
 任何访问或查看此 GitHub 仓库的人将被视为同意以上条款。<br>
